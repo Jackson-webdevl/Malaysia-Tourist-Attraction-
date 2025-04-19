@@ -1,0 +1,291 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+<Attractions>
+<Attraction>
+<PlaceID>001</PlaceID>
+<Name>Gunung Mulu National Park Tour</Name>
+<City>Mulu Island Miri</City>
+<State>Sarawak</State>
+<Description>
+<Ticket>Required</Ticket>
+<Price>
+Malaysian Child	RM 5.00 (6 to 18 years) 5 and below no charge<br/>
+Malaysian Adult	RM 15.00<br/>
+Malaysian Senior RM 7.00 (60 years and above)<br/>
+<br/>
+Foreign Child	RM 10.00 5 years old and below no charge<br/>
+Foreign Adult	RM 30.00<br/>
+</Price>
+<Image>image/Mulu National Park.webp</Image>
+</Description>
+<Opening_Hours></Opening_Hours>
+<Category>Wildlife Tour</Category>
+<link>https://mulupark.com/tours-activities/</link>
+</Attraction>
+
+<Attraction>
+<PlaceID>002</PlaceID>
+<Name>Petronas Twin Towers</Name>
+<City>Kuala Lumpur</City>
+<State>Kuala Lumpur</State>
+<Description>
+<Ticket>Required</Ticket>
+<Price>
+For Malaysian (MYKAD holder)
+Infant FREE ADMISSION <br/>
+Child Above 2 to 12 years old RM 17.00 <br/> 
+Adult 13 to 60 years old RM 35.00 <br/>
+Senior Citizen 61 years and above RM 17.00<br/> 
+<br/>
+For Foreign (Non-MYKAD holder) 
+Infant FREE ADMISSION<br/> 
+Child Above 2 to 12 years old RM 50.00<br/> 
+Adult 13 to 60 years old RM 98.00 <br/>
+Senior Citizen 61 years and above RM 50.00<br/>
+</Price>
+<Image>image/KLCC.jpg</Image>
+</Description>
+<Opening_Hours>
+Tuesday to Sunday/ Public Holidays
+9.00 a.m. to 9.00 p.m. Last admission 8.30 p.m.
+<br/>
+Monday 
+Open on 2nd and 4th Monday of the month 
+Closed(Except PH or Replacement PH on Monday)
+</Opening_Hours>
+<Category>Urban Landmark </Category>
+<link>https://www.petronastwintowers.com.my/plan-your-visit/admission-ticketing/</link>
+</Attraction>
+
+<Attraction>
+<PlaceID>003</PlaceID>
+<Name>LEGOLAND MALAYSIA</Name>
+<City>Bandar Medini Iskandar</City>
+<State>Johor</State>
+<Description>
+<Ticket>Required</Ticket>
+<Price>
+FREE for children under 3 <br/>
+Ticket starts from RM 69.00 <br/>
+The ticket can buy Three park (Theme Park, Aquarium, Water Park) or can buy single park.<br/>
+</Price>
+<Image>image/LegoLand Johor.webp</Image>
+</Description>
+<Opening_Hours>
+Theme Park 10 a.m. to 6 p.m. CLosed on every Wednesday<br/>
+Water Park 10 a.m. to 6 p.m. CLosed on every Tuesday<br/>
+Sea Life 10 a.m. to 6 p.m. Open everyday<br/>
+</Opening_Hours>
+<Category>Entertainment</Category>
+<link>https://www.legoland.com.my/tickets-passes/</link>
+</Attraction>
+
+<Attraction>
+<PlaceID>004</PlaceID>
+<Name>Langkawi Skybridge Cable Car</Name>
+<City>Langkawi</City>
+<State>Kedah</State>
+<Description>
+<Ticket>Required</Ticket>
+<Price>
+Free for children aged below 3 years<br/>
+Adults RM 60.00 to RM 75.00 <br/>
+Children RM 45.00 to RM 60.00 <br/>
+</Price>
+<Image>image/Langkawi Skybridge Cable Car.webp</Image>
+</Description>
+<Opening_Hours>Daily 9.30 a.m. to 6.00 p.m.</Opening_Hours>
+<Category>Urban Landmark</Category>
+<link>http://booking.panoramalangkawi.com/tours/skycab-admission/</link>
+</Attraction>
+
+<Attraction>
+<PlaceID>005</PlaceID>
+<Name>Escape Penang</Name>
+<City>Pulau Pinang</City>
+<State>Penang</State>
+<Description>
+<Ticket>Required</Ticket>
+<Price>
+Single-Day Admission
+Price: Starting from RM 183.00<br/>
+Includes: Access to all rides and attractions, including the Ski Slope and Dead Sea Pool<br/>
+
+Multi-Day Packages with BASE CAMP Stay
+2 Days 1 Night:
+Includes: Two-day park access and overnight camping at BASE CAMP<br/>
+
+3 Days 2 Nights:
+Includes: Three-day park access and two nights at BASE CAMP<br/>
+
+Note: BASE CAMP stays are complimentary with the purchase of 2-day or 3-day tickets
+</Price>
+<Image>image/Escape Penang.webp</Image>
+</Description>
+<Opening_Hours>
+Tuesday to Sunday: 10:00 AM to 6:00 PM
+
+Closed on Mondays (except during public and school holidays)
+</Opening_Hours>
+<Category>Recreational</Category>
+<link>https://escape-pg.thecoolmelon.com/</link>
+</Attraction>
+
+<Attraction>
+<PlaceID>006</PlaceID>
+<Name>Royal Selangor Visitor Centre</Name>
+<City>Kuala Lumpur</City>
+<State>Kuala Lumpur</State>
+<Description>
+<Ticket>Not Required</Ticket>
+<Price>
+Free Admission 
+<br/>
+Workshops 
+School of hard knocks- RM 80.00 per session (30 mins)
+<br/>
+the foundry- RM 180.00 per session (60 mins)
+</Price>
+<Image>image/Royal Selangor Visitor Centre.webp</Image>
+</Description>
+<Opening_Hours>
+9.00 a.m. to 5.00 p.m. daily (including Public Holidays)
+</Opening_Hours>
+<Category> Historical, Education </Category>
+<link>https://www.klook.com/en-MY/activity/105495-river-sightseeing-cruise-experience-sarawak/</link>
+</Attraction>
+
+<Attraction>
+<PlaceID>007</PlaceID>
+<Name>Sunway Lagoon</Name>
+<City>Subang Jaya</City>
+<State>Selangor</State>
+<Description>
+<Ticket>Required</Ticket>
+<Price>
+For Malaysian Citizens:
+Adult (13 years and above): RM 180.00<br/>
+Child (12 years and below): RM 145.00<br/>
+Senior Citizen (60 years and above): RM 145.00<br/>
+
+For Non-Malaysians:
+Adult: RM 250.00<br/>
+Child/Senior: RM 200.00<br/>
+
+Optional Add-ons:
+Quack Xpress Pass: RM 90.00 (Allows you to skip regular queues at selected rides and attractions)
+2-Day Fun Pass:
+Priced between RM 320.00 to RM 400.0, depending on visitor category. 
+</Price>
+<Image>image/Sunway Lagoon.webp</Image>
+</Description>
+<Opening_Hours>
+Day Park: Open daily from 10:00 AM to 6:00 PM.
+<br/>
+Closed on Tuesdays, except during public and school holidays. 
+</Opening_Hours>
+<Category>Recreational</Category>
+<link>https://sunwaylagoon.com/etickets/</link>
+</Attraction>
+
+<Attraction>
+<PlaceID>008</PlaceID>
+<Name>The TOP Penang, Theme Park Penang</Name>
+<City>George Town</City>
+<State>Penang</State>
+<Description>
+<Ticket>Required</Ticket>
+<Price>
+Rainbow Skywalk (Single Entry):
+Adult: RM 68.00 (RM 61.00 online)<br/>
+Child (90cm to 12 years), Senior (60+), OKU: RM 48.00 (RM 43.00 online)<br/>
+Children below 90cm enter free.<br/>
+<br/>
+Attraction Passes:
+3-Attraction Pass: From RM 60.70<br/>
+Includes: Rainbow Skywalk, Observatory Deck, Sky Bridge<br/>
+<br/>
+5-Attraction Pass: From RM 66.40<br/>
+Adds: Jurassic Research Centre, Penang Boutique Aquarium<br/>
+
+12-Attraction Pass: From RM 115.60<br/>
+Full access to all attractions, including: Tech Dome, Penang State Gallery, Durian King and Tongkat Ali Museum, and more.<br/>
+
+</Price>
+<Image>image/The top Penang.webp</Image>
+</Description>
+<Opening_Hours>
+General Attractions (e.g., Jurassic Research Center, Tech Dome, Aquarium, SkyBridge, Zombie Outbreak, etc.):<br/>
+Daily: 10:00 AM to 7:00 PM<br/>
+<br/>
+Rainbow Skywalk and Observatory Deck:
+Monday, Wednesday to Sunday: 10:00 AM to 10:00 PM<br/>
+Tuesday: 10:00 AM to 7:00 PM<br/>
+</Opening_Hours>
+<Category>Urban Landmark</Category>
+<link>https://thetop.com.my/buy-tickets2/</link>
+</Attraction>
+
+<Attraction>
+<PlaceID>009</PlaceID>
+<Name>Penang Hill</Name>
+<City>George Town</City>
+<State>Penang</State>
+<Description>
+<Ticket>Required</Ticket>
+<Price>
+Two-way Ticket<br/>
+Malaysian
+Children (4 to 12 years): Normal Lane RM 8.00, Fast Lane RM 20.00<br/>
+Adults (13 to 59 years): Normal Lane RM 16.00, Fast Lane RM 40.00<br/>
+Senior Citizens (60+ years): Normal Lane RM 8.00, Fast Lane RM 8.00<br/>
+<br/>
+Standard
+Children (4 to 12 years): Normal Lane RM 15.00, Fast Lane RM 40.00<br/>
+Adults (13 to 59 years): Normal Lane RM 30.00, Fast Lane RM 80.00<br/>
+Senior Citizens (60+ years): Normal Lane RM 30.00, Fast Lane RM 60.00<br/>
+<br/>
+One-way Ticket 
+Malaysian
+Children (4 to 12 years): Normal Lane RM 4.00, Fast Lane RM 10.00<br/>
+Adults (13 to 59 years): Normal Lane RM 8.00, Fast Lane RM 25.00<br/>
+<br/>
+Standard
+Children (4 to 12 years): Normal Lane RM 8.00, Fast Lane RM 20.00<br/>
+Adults (13 to 59 years): Normal Lane RM 15.00, Fast Lane RM 45.00<br/>
+<br/>
+Other special rates Please refer to the official website.
+</Price>
+<Image>image/Penang Hill.webp</Image>
+</Description>
+<Opening_Hours>
+Funicular Train: Daily from 6:30 AM to 11:00 PM
+Last ticket sold at 9:45 PM
+</Opening_Hours>
+<Category>Urban Landmark</Category>
+<link>https://penanghill.gov.my/index.php/en/</link>
+</Attraction>
+
+<Attraction>
+<PlaceID>010</PlaceID>
+<Name>Sarawak Cultural Village</Name>
+<City>Kuching</City>
+<State>Sarawak</State>
+<Description>
+<Ticket>Required</Ticket>
+<Price>
+Standard Admission
+Adult: RM90.00<br/>
+Child (2 to 12 years): RM57.00<br/>
+<br/>
+Admission with Lunch
+Adult: RM125.00<br/>
+Child: RM88.00<br/>
+</Price>
+<Image>image/Sarawak Cultural Village.webp</Image>
+</Description>
+<Opening_Hours>Daily: 9:00 AM to 5:00 PM</Opening_Hours>
+<Category>Cultural</Category>
+<link>https://scv.com.my/</link>
+</Attraction>
+</Attractions>
+
